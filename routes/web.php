@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return "Hello DEV environmentx";
+    return "Hello DEV environment test";
 });
